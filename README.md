@@ -2,5 +2,5 @@
  repository for image classification using FastAI.
 
  # important_links
-[FastAi](https://docs.fast.ai/)
+[FastAi](https://docs.fast.ai/)<br>
 [FruitDataset](https://public.roboflow.com/classification/fruits-dataset)
